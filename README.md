@@ -71,6 +71,7 @@ No dependencies. No build process. Just open and use.
 ---
 
 ## 📸 Screenshots
+<img width="1917" height="960" alt="Image" src="https://github.com/user-attachments/assets/f429fc04-8a90-4c93-a1df-dba5d469586f" />
 
 (Add your screenshots in `/assets/screenshots/`)
 
